@@ -4,12 +4,6 @@ DeviceHaven is a modern and secure e-commerce platform designed to provide a sea
 
 ---
 
-## 🚀 Live Demo  
-
-Check out the live site: [DeviceHaven](https://lnkd.in/dUkZvgXG)  
-
----
-
 ## 🌟 Features  
 
 ### Core Functionalities  
