@@ -21,7 +21,7 @@ export function AboutUsShort() {
                                 className="text-forefround text-4xl font-bold font-manrope leading-normal lg:text-start text-center">
                                 Empowering Your Tech Journey</h2>
                             <p className="text-gray-500 text-base font-normal leading-relaxed lg:text-start text-center">
-                            At DeviceHaven, we bring the latest and most reliable devices right to your fingertips. Our mission is to make technology accessible, affordable, and tailored to your needs. From smartphones to smart gadgets, we are your trusted partner in discovering the best innovations for your lifestyle.</p>
+                            At SPARKLECART, we bring the latest and most reliable devices right to your fingertips. Our mission is to make technology accessible, affordable, and tailored to your needs. From smartphones to smart gadgets, we are your trusted partner in discovering the best innovations for your lifestyle.</p>
                         </div>
                         <div className="w-full lg:justify-start justify-center items-center sm:gap-10 gap-5 inline-flex">
                             <div className="flex-col justify-start items-start inline-flex">

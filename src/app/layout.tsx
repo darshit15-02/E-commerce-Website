@@ -19,7 +19,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "DeviceHaven",
+  title: "SparkleCart",
   description: "A device selling e-commerce platform"
 };
 

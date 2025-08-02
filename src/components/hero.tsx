@@ -56,7 +56,7 @@ export function Hero() {
       <div className="absolute inset-0 bg-black bg-opacity-50"></div>
       <div className="mt-10 sm:mt-0 container mx-auto px-4 relative z-10 text-white text-center">
         
-          <WordFadeIn className="text-4xl md:text-6xl font-bold mb-6 animate-fade-up" words="Welcome to DeviceHaven" />
+          <WordFadeIn className="text-4xl md:text-6xl font-bold mb-6 animate-fade-up" words="Welcome to SparkleCart" />
         
         <p className="text-3xl mb-8 h-16 font-bold animate-type">
           {displayedMotto}

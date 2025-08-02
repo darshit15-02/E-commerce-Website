@@ -21,7 +21,7 @@ export default function PrivacyPolicyPage() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.2 }}
             >
-              <p>At DeviceHaven, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines our practices concerning the collection, use, and sharing of your data.</p>
+              <p>At SPARKLECART, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines our practices concerning the collection, use, and sharing of your data.</p>
               
               <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">1. Information We Collect</h2>
               <p>We collect information you provide directly to us, such as when you create an account, make a purchase, or contact our customer service. This may include your name, email address, postal address, phone number, and payment information.</p>
@@ -48,7 +48,7 @@ export default function PrivacyPolicyPage() {
               <p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
               
               <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">9. Contact Us</h2>
-              <p>If you have any questions about this Privacy Policy, please contact us at privacy@devicehaven.com.</p>
+              <p>If you have any questions about this Privacy Policy, please contact us at privacy@SPARKLECART.com.</p>
               
               <p className="mt-8">This Privacy Policy was last updated on 4 December 2024.</p>
             </motion.div>

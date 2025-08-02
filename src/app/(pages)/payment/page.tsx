@@ -80,7 +80,7 @@ export default function PaymentPage() {
         <div className="grid grid-cols-1 xl:grid-cols-2 min-h-screen items-center xl:w-3/5">
           {/* Left Column - Picture */}
           <div className="hidden xl:block">
-              <img className='inline-block w-[452px] h-[482px] rounded-md' src="/payment-page.jpeg" alt="DeviceHaven" />
+              <img className='inline-block w-[452px] h-[482px] rounded-md' src="/payment-page.jpeg" alt="SPARKLECART" />
           </div>
           
           {/* Right Column - Stripe Page */}

@@ -80,7 +80,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-primary-foreground/10 text-center">
-          <p>&copy; 2023 DeviceHaven. All rights reserved.</p>
+          <p>&copy; 2023 SPARKLECART. All rights reserved.</p>
         </div>
       </div>
     </footer>

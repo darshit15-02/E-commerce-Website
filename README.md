@@ -1,6 +1,6 @@
-# DeviceHaven  
+# SPARKLECART  
 
-DeviceHaven is a modern and secure e-commerce platform designed to provide a seamless shopping experience. This project leverages cutting-edge technologies to deliver a user-friendly, scalable, and performance-driven solution.  
+SPARKLECART is a modern and secure e-commerce platform designed to provide a seamless shopping experience. This project leverages cutting-edge technologies to deliver a user-friendly, scalable, and performance-driven solution.  
 
 ---
 

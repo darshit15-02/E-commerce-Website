@@ -16,7 +16,7 @@ export default function AboutUs() {
                 <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative text-center mt-28 sm:mt-36 lg:mt-0 ">
                     <h1
                         className="max-w-2xl mx-auto text-center font-manrope font-bold text-4xl text-white mb-5 md:text-5xl md:leading-normal glow-text">
-                        Discover Innovation with <span className="glow-text ">DeviceHaven</span>
+                        Discover Innovation with <span className="glow-text ">SPARKLECART</span>
                     </h1>
                     <button className=" bg-gradient-to-br from-cyan-200 via-cyan-700 to-cyan-900 group-hover:opacity-100 text-lg font-semibold px-5 py-2 text-white rounded-xl hover:bg-cyan-500 hover:opacity-90 "
                      onClick={() => {
@@ -40,7 +40,7 @@ export default function AboutUs() {
                             About
                             Us </h2>
                         <p className="font-normal text-xl leading-8 text-gray-500 max-lg:text-center max-w-2xl mx-auto">
-                            Driven by a passion for seamless user experiences, we've meticulously curated DeviceHaven
+                            Driven by a passion for seamless user experiences, we've meticulously curated SPARKLECART
                             to empower creators, designers, and developers alike. Our mission is to provide a
                             comprehensive toolkit,
                             enabling you to build intuitive, beautiful interfaces that resonate with users on every
@@ -63,7 +63,7 @@ export default function AboutUs() {
                         <h2 className="font-manrope font-bold text-4xl lg:text-5xl text-foreground mb-9 max-lg:text-center">We
                             are Creative Since 2005</h2>
                         <p className="font-normal text-xl leading-8 text-gray-500 max-lg:text-center max-w-2xl mx-auto">
-                            DeviceHaven isn’t just a collection of components and guidelines; it's a philosophy. We go
+                            SPARKLECART isn’t just a collection of components and guidelines; it's a philosophy. We go
                             beyond aesthetics, prioritizing accessibility, scalability, and usability. Every element,
                             from the tiniest
                             detail to the grandest layout, is meticulously crafted to enhance functionality and elevate
@@ -149,7 +149,7 @@ export default function AboutUs() {
                                         CEO</span>
                                 </div>
                                 <p className="text-gray-500 leading-6 mb-7">
-                                    I am the co founder of DeviceHaven and we’ve pushed our limit so far to make it
+                                    I am the co founder of SPARKLECART and we’ve pushed our limit so far to make it
                                     successful.
                                 </p>
                                 <div className="flex items-center gap-4 justify-center lg:justify-start">
@@ -198,7 +198,7 @@ export default function AboutUs() {
                                         COO</span>
                                 </div>
                                 <p className="text-gray-500 leading-6 mb-7">
-                                    I am the co founder of DeviceHaven and we’ve pushed our limit so far to make it
+                                    I am the co founder of SPARKLECART and we’ve pushed our limit so far to make it
                                     successful.
                                 </p>
                                 <div className="flex items-center gap-4 justify-center lg:justify-start">

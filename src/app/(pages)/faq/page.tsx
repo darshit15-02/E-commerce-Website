@@ -4,8 +4,8 @@ import FaqItem from "@/components/faq-item"
 
 const faqs = [
   {
-    question: "What types of devices does DeviceHaven offer?",
-    answer: "DeviceHaven offers a wide range of electronic devices including smartphones, laptops, tablets, smartwatches, wireless earbuds, and other accessories from various leading brands."
+    question: "What types of devices does SPARKLECART offer?",
+    answer: "SPARKLECART offers a wide range of electronic devices including smartphones, laptops, tablets, smartwatches, wireless earbuds, and other accessories from various leading brands."
   },
   {
     question: "Do you offer international shipping?",
@@ -37,7 +37,7 @@ const faqs = [
   },
   {
     question: "How do I contact customer support?",
-    answer: "You can reach our customer support team via email at support@devicehaven.com, through our live chat on the website, or by phone at 1-800-DEVICE-HAVEN. Our support hours are Monday to Friday, 9 AM to 6 PM EST."
+    answer: "You can reach our customer support team via email at support@SPARKLECART.com, through our live chat on the website, or by phone at 1-800-DEVICE-HAVEN. Our support hours are Monday to Friday, 9 AM to 6 PM EST."
   },
   {
     question: "Do you offer repair services for devices?",
@@ -49,7 +49,7 @@ const faqs = [
   },
   {
     question: "Do you have a loyalty program?",
-    answer: "Yes, we have a DeviceHaven Rewards program. Members earn points on purchases which can be redeemed for discounts on future orders. Sign up is free and you start earning points with your first purchase!"
+    answer: "Yes, we have a SPARKLECART Rewards program. Members earn points on purchases which can be redeemed for discounts on future orders. Sign up is free and you start earning points with your first purchase!"
   }
 ]
 
